@@ -1,5 +1,5 @@
 <template>
-  <b-col cols="6">
+  <b-col sm="6">
     <b-form-checkbox :checked="completedAll" @change="checkAll"
       >Check All</b-form-checkbox
     >

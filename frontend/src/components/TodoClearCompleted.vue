@@ -1,5 +1,5 @@
 <template>
-  <b-col cols="6">
+  <b-col sm="6">
     <div>
       <b-button
         v-if="showClearCompletedButton"

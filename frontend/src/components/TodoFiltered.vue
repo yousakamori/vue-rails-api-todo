@@ -1,5 +1,5 @@
 <template>
-  <b-col cols="6">
+  <b-col sm="6">
     <b-form-radio-group
       v-model="selected"
       :options="options"

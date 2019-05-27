@@ -28,13 +28,13 @@
 
           <b-list-group class="mt-4">
             <b-list-group-item
-              class="flex-wrap d-flex justify-content-around align-items-center"
+              class="flex-wrap d-flex justify-content-start align-items-center"
             >
               <TodoCheckAll />
               <TodoItemsRemaining />
             </b-list-group-item>
             <b-list-group-item
-              class="flex-wrap d-flex justify-content-around align-items-center"
+              class="flex-wrap d-flex justify-content-start align-items-center"
             >
               <TodoFiltered />
               <TodoClearCompleted />

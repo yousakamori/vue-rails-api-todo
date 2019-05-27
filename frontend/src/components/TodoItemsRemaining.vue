@@ -1,5 +1,5 @@
 <template>
-  <b-col cols="6">
+  <b-col sm="6">
     <span class="text-danger">{{ remaining }}</span>
     {{ remaining | pluralize('item') }} left
   </b-col>
